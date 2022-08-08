@@ -1,0 +1,6 @@
+In blog page you need to render the template and also create an api to get the blog
+
+separate API endpoint for getting blog only and separate endpoint for getting 
+its comments by passing the blog id similar to the API used in unsplash 
+for getting author's details by passing image id. Or just send the author's 
+data which means mentioning author data is must.
